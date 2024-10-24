@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "💼",
+      "🧗",
+      "LiBuilding2",
+      "⛽",
+      "☔"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "EPFO": "🏛",
+  "CURRENT_AFFAIRS": "📰",
+  "MANAGEMENT_ADMINISTRATION": "👨‍⚖️",
+  "EPFO/SOCIAL_SECURITY": "👪",
+  "EPFO/INDUSTRIAL_RELATINOS": "🧑‍🏭",
+  "EPFO/INDUSTRIAL_RELATINOS/TRADE UNION ACT 1926.md": {
+    "iconName": "LiBriefcaseBusiness",
+    "iconColor": "#3957d0"
+  },
+  "EPFO/INDUSTRIAL_RELATINOS/INDUSTRIAL DISPUTES ACT 1947.md": "☔",
+  "EPFO/INDUSTRIAL_RELATINOS/Industrial Employment (Standing Orders) Act 1946.md": "⛽",
+  "EPFO/INDUSTRIAL_RELATINOS/Industrial Relations Code 2020.md": {
+    "iconName": "LiBuilding2",
+    "iconColor": "#f33030"
+  },
+  "EPFO/INDUSTRIAL_RELATINOS/APPROACHES TO INDUSTRIAL RELATINOS.md": "🧗",
+  "EPFO/INDUSTRIAL_RELATINOS/Trends in industrial relations.md": "💼"
+}
