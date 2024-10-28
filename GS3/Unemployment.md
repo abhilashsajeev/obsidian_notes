@@ -1,4 +1,4 @@
-#gs3 #economu #unemployment
+#gs3 #economy  #unemployment
 
 >India is not producing enough good quality jobs for its people. A good quality job provides dignity, adequate compensation, an opportunity for learning, and advancement for those who strive
 
