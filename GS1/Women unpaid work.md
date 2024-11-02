@@ -6,7 +6,7 @@ Employed women closely follow, dedicating 5.8 hours to similar tasks.
 unemployed men spend less than four hours, while employed men contribute only 2.7 hours daily
 #gs1 #gs3 #gs2 #socialjustice #women #unpaidwork
 
-SDG **Target 5.4 seeks** to recognise and value unpaid care and domestic work through supportive policies and shared household responsibilities, particularly in low and middle-income countries by 2030.
+SDG **Target 5.4 seeks** to recognize and value unpaid care and domestic work through supportive policies and shared household responsibilities, particularly in low and middle-income countries by 2030.
 
 Asia-Pacific Economic Cooperation (APEC 2022) revealed that unpaid work contributes an estimated 9% to the GDP of APEC member economies.
 
