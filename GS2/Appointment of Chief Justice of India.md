@@ -47,3 +47,7 @@ The appointment of the **Chief Justice of India (CGI)** is a crucial aspect of t
 The appointment of the Chief Justice of India is a pivotal process influenced by seniority, conventions, and the Memorandum of Procedure. Understanding this procedure is vital as it affects the independence and integrity of the judiciary. The CGI's powers extend beyond mere case allocation, impacting governance and constitutional interpretation. The removal process underscores the importance of accountability within the judiciary, ensuring that the CGI remains a respected figure in the legal landscape of India. The implications of this appointment process are profound, shaping the future of judicial oversight and the rule of law in the country. 
 
 In summary, the CGI's appointment and removal reflect the delicate balance between judicial independence and governmental oversight, reinforcing the judiciary's role as a cornerstone of democracy in India.
+
+
+## Saurabh Kripal
+Can be indias first openly gay Highcout Judge but his reccomendation is wwitheld by govt
