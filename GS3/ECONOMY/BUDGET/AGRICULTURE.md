@@ -42,6 +42,10 @@ Launch a 6-year Mission with special focus on Tur, Urad and Masoor, emphasizing
 - Insurance 
 - Assisted Digital Services
 
+### Benefits of Climate Resilient Farm
+![[benefits_of_climate_reslienatfarm.excalidraw]]
+
+
 
 
 
