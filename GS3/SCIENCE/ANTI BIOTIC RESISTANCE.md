@@ -1,0 +1,1 @@
+ In the year 2021, about 1.2 million deaths worldwide were attributed to antimicrobial resistance to existing antibiotics. Surveys in Indian hospitals show that infections with drug-resistant bacteria have a 13% mortality rate.
